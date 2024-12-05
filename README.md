@@ -9,7 +9,9 @@ I have experience in both Biomedical and Marketing science fields.
 
 📊 I love inter-disciplinary fields where I can craft innovative solutions that bridge the gap between theory and real-world applications.
 
-🌍  I'm based in Torino, Italy
+* 🌍  I'm based in Torino, Italy
+* 🖥️  See my portfolio at [https://frapria.github.io/](http://frapria.github.io/ )
+
 
 ### Skills
 
