@@ -1,4 +1,4 @@
-Hi 👋 My name is Francesca
+Hi 👋 My name is Francesca Priante
 ==========================
 
 Data Scientist & Complex Systems PhD
