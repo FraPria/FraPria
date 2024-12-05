@@ -4,7 +4,10 @@ Hi 👋 My name is Francesca
 Data Scientist & Complex Systems PhD
 ------------------------------------
 
-I’m mathematical engineer with a PhD in Complex Systems and a working specialization with 5+ years of experience in data science. I have experience in both Biomedical and Marketing science fields. 📊 I love inter-disciplinary fields where I can craft innovative solutions that bridge the gap between theory and real-world applications.
+I’m mathematical engineer with a PhD in Complex Systems and a working specialization with 5+ years of experience in data science. 
+I have experience in both Biomedical and Marketing science fields. 
+
+📊 I love inter-disciplinary fields where I can craft innovative solutions that bridge the gap between theory and real-world applications.
 
 🌍  I'm based in Torino, Italy
 
